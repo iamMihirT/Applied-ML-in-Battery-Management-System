@@ -6,12 +6,12 @@ DataSet Description:-
 A comprehensive vehicle model that included the powertrain and the heating circuit was validated using data from 72 actual driving excursions with a BMW i3 (60 Ah).  
  	
 Each journey includes: 
-•	The environment (temperature, elevation, etc.) 
-•	Car information (speed, throttle, etc.) 
+•	The environment (temperature, elevation, etc.)\
+•	Car information (speed, throttle, etc.) \
 •	Battery data (voltage, current, temperature, SoC) 
 •	Data for a heating circuit (indoor temperature, heating power, etc.) 
 
 Models Used:-
-Base Model :- Linear Regression
+Base Model :- Linear Regression \
 Main Model :- Long Short Term Memory
 
