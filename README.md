@@ -12,6 +12,6 @@ Each journey includes:
 •	Data for a heating circuit (indoor temperature, heating power, etc.) 
 
 Models Used:-
-Base Model :- Linear Regression \
+Base Model :-  Regression \
 Main Model :- Long Short Term Memory
 
